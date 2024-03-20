@@ -1,5 +1,3 @@
-import { Link } from 'react-router-dom';
-
 import ProductCard from '../product-card/product-card.component';
 
 import { CategoryPreviewItem, CategoryPreviewContainer, CategoryPreviewTitle } from './category-preview.styles.jsx';
@@ -12,8 +10,7 @@ const CategoryPreview = ({ title, products }) => {
             </h2>
 
             <CategoryPreviewItem>
-                {products.
-                    filter((_, index) => index < 4)
+                {products.filter((_, index) => index < 4)
                     .map((product) => <ProductCard key={product.id} product={product} />)}
             </CategoryPreviewItem>
         </CategoryPreviewContainer>
