@@ -1,6 +1,6 @@
 <h1 align="center" id="title">🛒 Shop-Website 🛒</h1>
 
-<p align="center"><img src="" alt="project-image"></p>
+<p align="center"><img src="src/assets/Screenshot_6.png" alt="project-image"></p>
 
 <p id="description">Shop-Website is a project where is a dublicate of a real shop website with a variety of categories and products you can choose from. You can Sign-In or Sign-Up in order to be able to add some of your favorite products to the cart. When you finish choosing your favorite product you can easily go to the Checkout page and see the cost of your products. The project demonstrates my ability to work with a more complex React project the ability to navigate through different components and work with React Context. For the DB authentication and authorization I'm using Firestore/Firebase.</p>
 
@@ -8,11 +8,11 @@
 
 [https://shop-website-k-y.netlify.app/](https://shop-website-k-y.netlify.app/)
 
-<h2>Project Screenshots:</h2>
+<h2>📸 Project Screenshots:</h2>
 
-<img src="fdsa" alt="project-screenshot" width="200" height="200/">
+<img src="src/assets/Screenshot_7.png" alt="project-screenshot" width="900" height="500/">
 
-<img src="fdas" alt="project-screenshot" width="200" height="200/">
+<img src="src/assets/Screenshot_8.png" alt="project-screenshot" width="800" height="400/">
 
 <h2>🛠️ Installation Steps:</h2>
 
